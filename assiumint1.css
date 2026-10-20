@@ -1,0 +1,199 @@
+.mm{
+    border:  solid rgb(6, 1, 19) 1%;
+}
+.front{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    border-radius: 5px;
+    padding: 5px;
+}
+.Front-End .der{
+width: 70%;
+float: right;
+clear: both;
+
+}
+.Front-End .fr{
+    border: solid rgba(0, 0, 255, 0.466) 0.01px;
+    margin-bottom: 3%;
+    text-align: center;
+}
+
+ span{
+    width: 100%;
+    height: 100%;
+    border: solid white 1px;
+    border-radius: 15px;
+    background-color: rgba(255, 255, 255, 0.267);
+margin: 2px;
+
+}
+
+.Front-End{
+background-color:white;
+width: 80%;
+margin: auto;
+padding: 5px;
+}
+
+.Front-End img{
+    width: 20%;
+    height: 20%;
+    border: solid blue 2px;
+border-radius: 50%;
+background-position:left ;
+
+}
+
+.Front-End span{
+    color: rgb(8, 8, 104);
+
+
+}
+
+.Front-End span1 {
+    color: white;
+    background-color: rgb(0, 0, 255);
+    border-radius: 5px;
+    padding: 2px;
+    display: block;
+    width: 30%;
+}
+
+.Front-End h2{
+    color: blue;
+}
+
+.Skills  h3{
+color: blue;
+}
+
+.Skills  h2{
+color: blue;
+}
+.Skills .bgr{
+    border: solid rgba(0, 0, 255, 0.377) 1px;
+}
+
+.Skills .c {
+    width: 20%;
+    border-radius: 5px;
+    background-color: whitesmoke;
+    float: left;
+    margin: 5px;
+    padding: 5px;
+    border: solid rgba(0, 0, 255, 0.39) 1px;
+}
+
+.Skills {
+    margin: 10%;
+}
+ 
+#perience{
+background-color: whitesmoke;
+clear: both;
+}
+#perience .df{
+    border: solid rgba(0, 0, 255, 0.356) 1px; 
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 10px;
+    
+}
+
+#perience h2{
+    color: blue;
+    text-align: left;
+    margin-left: 10%;
+    margin-bottom: 3%;
+}
+.developers{
+background-color:white;
+width: 85%;
+margin: auto;
+padding: 5px;
+border-radius: 5px;
+border-left: solid blue 3px ;
+margin-top: 5px;
+margin-bottom: 5px;
+}
+
+.web{
+background-color:white;
+width: 85%;
+margin: auto;
+padding: 5px;
+border-radius: 5px;
+border-left: solid blue 3px ;
+margin-top: 5px;
+margin-bottom: 5px;
+
+}
+.web.cass{
+    width: 90%;
+    float:right;
+    clear: both;
+    margin-right: 10%;
+
+}
+.developers h4{
+    color: blue;
+}
+.web h4{
+    color: blue;
+}
+
+.web img{
+    width: 10%;
+    height: 10%;
+    border-radius: 50%;
+    float: left;
+    border: solid 10px white;
+    margin-top: 8%;
+    margin-right: 2%;
+    margin-bottom: 10px;
+}
+
+.developers img{
+       width: 10%;
+    height: 10%;
+    float: left;
+    border-radius: 50%;
+      border: solid 10px white;
+    margin-top: 8%;
+    margin-right: 2%;
+    margin-bottom: 10px;
+    
+}
+
+
+
+.me{
+    background-color: darkblue;
+color: white;
+border-radius: 5px;
+margin: auto;
+clear: both;
+padding: 20px;
+width: 80%;
+}
+.me .gr{
+    border: solid rgba(0, 0, 255, 0.295) 1px;
+}
+
+#JohnDoe{
+    color: white;
+    background-color: rgb(2, 2, 41);
+    display: block;
+    clear: both;
+    width: 85%;
+    border-radius: 5px;
+    text-align: center;
+    margin: auto;
+    border: solid white 2px;
+}
+
+
